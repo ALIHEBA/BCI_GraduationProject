@@ -5,7 +5,7 @@ https://www.coursera.org/specializations/machine-learning-introduction
 # Brain Signal Processing Course
 https://www.udemy.com/course/solved-challenges-ants/
 
-# Our plan as following:
+# Our 1st phase plan as following:
 1. Finish the review on 8th of September (EEG/ MI/ Feature Extruction/ Classification)
 2. Finish ML and Signal Course on 30th of October 
 
