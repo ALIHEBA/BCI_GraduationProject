@@ -6,9 +6,8 @@ https://www.coursera.org/specializations/machine-learning-introduction
 https://www.udemy.com/course/solved-challenges-ants/
 
 # Our 1st phase plan as following:
-1. Finish the review on 8th of September (EEG/ MI/ Feature Extraction/ Classification)
-2. Finish ML and Signal Course on 30th of October 
-
+1. Finish the review on 11th of Novamber (EEG/ MI/ Feature Extraction/ Classification)
+2. Finish ML and Signal Course 
 
 # Data
 https://www.bci2000.org/mediawiki/index.php/DownloadBCI2000
